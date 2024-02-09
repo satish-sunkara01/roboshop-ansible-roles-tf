@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-prod.saachi.online  # submit your host
+REDIS_HOST: redis-prod.saachi.online 
+MYSQL_HOST: mysql-prod.saachi.online 
+RABBITMQ_HOST: rabbitmq-prod.saachi.online 
+CATALOGUE_HOST: catalogue-prod.saachi.online 
+USER_HOST: user-prod.saachi.online 
+CART_HOST: cart-prod.saachi.online 
+SHIPPING_HOST: shipping-prod.saachi.online 
+PAYMENT_HOST: payment-prod.saachi.online 
+DISPATCH_HOST: dispatch-prod.saachi.online 
