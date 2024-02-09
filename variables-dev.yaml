@@ -8,3 +8,5 @@ CART_HOST: cart.app-dev.saachi.online
 SHIPPING_HOST: shipping.app-dev.saachi.online 
 PAYMENT_HOST: payment.app-dev.saachi.online 
 DISPATCH_HOST: dispatch.app-dev.saachi.online 
+NEXUS_URL:  http://3.235.98.70:8081/repository
+GROUP_ID: "com/roboshop/"
