@@ -8,3 +8,5 @@ CART_HOST: cart-prod.saachi.online
 SHIPPING_HOST: shipping-prod.saachi.online 
 PAYMENT_HOST: payment-prod.saachi.online 
 DISPATCH_HOST: dispatch-prod.saachi.online 
+NEXUS_URL:  http://172.31.5.163:8081/repository
+GROUP_ID: "com/roboshop/"
